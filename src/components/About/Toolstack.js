@@ -1,5 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { FaWindows } from "react-icons/fa";
+import { FaFigma } from "react-icons/fa";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -12,7 +14,7 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <FaWindows />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -21,7 +23,7 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <FaFigma  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
