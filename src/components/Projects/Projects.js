@@ -51,7 +51,7 @@ function Projects() {
               isBlog={false}
               title="Sourcing Events"
               description="As a software developer, I spearheaded the creation of 10+ screens in the Sourcing Event Module, significantly reducing event setup time by 50% and boosting supplier engagement by 40% through streamlined processes. This involved enhancing both front-end usability and backend efficiency, resulting in a more seamless user experience and improved system performance."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com//Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
@@ -62,7 +62,7 @@ function Projects() {
               isBlog={false}
               title="Admin Planner Configuration"
               description="I led the development of a Planner configurations service, utilizing Java and Ember.js, to optimize the configuration process for admin users. This initiative drove a remarkable 40% enhancement in customization capabilities within supply chain software systems. By leveraging both backend Java expertise and frontend Ember.js proficiency, I successfully delivered a comprehensive solution that streamlined operations and maximized system flexibility."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com//AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -73,8 +73,8 @@ function Projects() {
               isBlog={true}
               title="Ember Light Table"
               description="I implemented the Ember Light Table framework to optimize rendering of product category mapping data, achieving a significant 50% reduction in screen load time. This enhancement effectively elevated the overall user experience, demonstrating my proficiency in leveraging advanced frontend technologies to improve system performance and usability."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              ghLink="https://github.com//Face_And_Emotion_Detection"
+              // demoLink="https://blogs.jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
