@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple"> Kapil Kumar Yadav </span>
             from <span className="purple"> New Delhi, India.</span>
             <br />
-            I am currently pursuing a Master of Science degree from the University of Wisconsin-Madison.
+            I am currently pursuing a Master of Science degree from the <strong className="purple">University of Wisconsin-Madison</strong>.
             <br />
-            I have completed my Bacheloers in Information technology from Delhi technological University.
+            I have completed my Bacheloers in Information technology from <strong className="purple">Delhi technological University.</strong>
             <br />
             <br />
           </p>

@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Card from "react-bootstrap/Card";
 
 function About() {
   return (
@@ -20,11 +21,27 @@ function About() {
               paddingTop: "30px",
               paddingBottom: "50px",
             }}
-          >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Past Experience<strong className="purple"></strong>
-            </h1>
-            <Aboutcard />
+          >                  
+            <Card className="quote-card-view">
+            <Card.Body>
+              <blockquote className="blockquote mb-0">
+                <p style={{ textAlign: "justify" }}>
+                  As a full stack developer, I bring a robust skill set encompassing both
+                  <span className="purple"> backend </span> and <span className="purple"> frontend</span> technologies. 
+                  Proficient in <span className="purple">Java</span> and <span className="purple">Python</span> for backend development
+                  On the frontend, I excel in HTML, CSS, <span className="purple">JavaScript</span>, 
+                  and frameworks like <span className="purple">Ember</span>, <span className="purple">React</span>, and 
+                  <span className="purple"> WordPress</span>, ensuring intuitive user interfaces.
+                  I leverage <span className="purple">MS SQL</span>,  <span className="purple">PostgresSQL</span>, and  <span className="purple">Redis</span> for efficient database management.
+                  With expertise in analytical tools like  <span className="purple">MS Excel</span> and  <span className="purple">Tableau</span>Tableau, 
+                  coupled with adeptness in version control with <span className="purple">Git</span> and project management tools 
+                  such as <span className="purple">Jira</span> and <span className="purple">Confluence</span>, I deliver comprehensive solutions aligned with business objectives.
+                  <br />
+                </p>
+              </blockquote>
+            </Card.Body>
+          </Card>
+
           </Col>
           <Col
             md={5}

@@ -9,7 +9,7 @@ function Type() {
           "Full Stack Developer",
           "Back-End Developer",
           "Front-End Developer",
-          "IT Project Manager",
+          "IT Project Management",
         ],
         autoStart: true,
         loop: true,
