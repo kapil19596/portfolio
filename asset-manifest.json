@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kapil19596/portfolio.io/portfolio/static/css/main.4c3ec076.css",
+    "main.js": "/kapil19596/portfolio.io/portfolio/static/js/main.0260a701.js",
+    "static/js/415.4d6acbeb.chunk.js": "/kapil19596/portfolio.io/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/kapil19596/portfolio.io/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/madisonbcycle.png": "/kapil19596/portfolio.io/portfolio/static/media/madisonbcycle.cb41bc0dc59c82f10d30.png",
+    "static/media/leaf.png": "/kapil19596/portfolio.io/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/kapil19596/portfolio.io/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/kapil19596/portfolio.io/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Zara.png": "/kapil19596/portfolio.io/portfolio/static/media/Zara.a52c9e3cf81473ce9a47.png",
+    "static/media/home-main.svg": "/kapil19596/portfolio.io/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/kapil19596/portfolio.io/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Comments.png": "/kapil19596/portfolio.io/portfolio/static/media/Comments.d03c5e5c56638889ed1b.png",
+    "static/media/KAPIL_KUMAR_YADAV_RESUME.pdf": "/kapil19596/portfolio.io/portfolio/static/media/KAPIL_KUMAR_YADAV_RESUME.8c97ec5e482bf6c67bb6.pdf",
+    "static/media/logo.png": "/kapil19596/portfolio.io/portfolio/static/media/logo.69edc52e0acfac6ec72d.png",
+    "static/media/home-bg.jpg": "/kapil19596/portfolio.io/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/kapil19596/portfolio.io/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/kapil19596/portfolio.io/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/kapil19596/portfolio.io/portfolio/index.html",
+    "main.4c3ec076.css.map": "/kapil19596/portfolio.io/portfolio/static/css/main.4c3ec076.css.map",
+    "main.0260a701.js.map": "/kapil19596/portfolio.io/portfolio/static/js/main.0260a701.js.map",
+    "415.4d6acbeb.chunk.js.map": "/kapil19596/portfolio.io/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/kapil19596/portfolio.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3ec076.css",
+    "static/js/main.0260a701.js"
+  ]
+}
