@@ -2,9 +2,7 @@
   Portfolio Website - v2.0<br/>
   <a href="https://kapil19596.github.io/portfolio" target="_blank">Kapil Kumar Yadav</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
 
 <br/>
 
@@ -14,6 +12,10 @@
 
 <h3 align="center">
     🔹
+
+## TL;DR
+
+
 ## Built With
 
 My personal portfolio <a href="https://kapil19596.github.io/portfolio" target="_blank">Kapil Kumar Yadav</a> which features some of my github projects as well as my resume and technical skills.<br/>
