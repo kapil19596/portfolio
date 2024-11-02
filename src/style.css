@@ -576,13 +576,6 @@ button:focus {
   overflow: hidden !important;
   border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
 }
-
-.tech-label {
-  font-size: large;
-  text-align: center;
-  margin-top: 5px;
-}
-
 .tech-icon-images {
   padding: 20px !important;
   line-height: 1.6 !important;
