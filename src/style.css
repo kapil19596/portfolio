@@ -581,6 +581,12 @@ button:focus {
   line-height: 1.6 !important;
 }
 
+.tech-label {
+  font-size: large;
+  text-align: center;
+  margin-top: 5px;
+}
+
 .quote-card-view {
   border: none !important;
   color: white !important;
@@ -751,3 +757,26 @@ button:focus {
   color: #000;
   font-size: 16px;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* Change the background color to black */
+    border-radius: 50%; /* Optional: make arrows circular */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(1); /* Optional: if you want to invert the arrow colors */
+}
+
+/* Custom styles for the Lightbox close button */
+.ril-overlay .ril-close {
+    top: 20px; /* Adjust position from the top */
+    right: 20px; /* Adjust position from the right */
+    z-index: 1000; /* Ensure it stays on top */
+    color: black; /* Change to your preferred color */
+    background-color: rgba(255, 255, 255, 0.7); /* Optional: Background color for visibility */
+    border-radius: 5px; /* Optional: Rounded corners */
+    padding: 5px 10px; /* Optional: Padding for the button */
+}
+

@@ -30,9 +30,9 @@ function About() {
                   <span className="purple"> backend </span> and <span className="purple"> frontend</span> technologies. 
                   Proficient in <span className="purple">Java</span> and <span className="purple">Python</span> for backend development
                   On the frontend, I excel in HTML, CSS, <span className="purple">JavaScript</span>, 
-                  and frameworks like <span className="purple">Ember</span>, <span className="purple">React</span>, and 
+                  and frameworks like <span className="purple">React</span>, <span className="purple">Angular</span>, <span className="purple">EmberJs</span>, and 
                   <span className="purple"> WordPress</span>, ensuring intuitive user interfaces.
-                  I leverage <span className="purple">MS SQL</span>,  <span className="purple">PostgresSQL</span>, and  <span className="purple">Redis</span> for efficient database management.
+                  I leverage <span className="purple">MS SQL</span>,  <span className="purple">PostgreSQL</span>, and  <span className="purple">Redis</span> for efficient database management.
                   With expertise in analytical tools like  <span className="purple">MS Excel</span> and  <span className="purple">Tableau</span>, 
                   coupled with adeptness in version control with <span className="purple">Git</span> and project management tools 
                   such as <span className="purple">Jira</span> and <span className="purple">Confluence</span>, I deliver comprehensive solutions aligned with business objectives.

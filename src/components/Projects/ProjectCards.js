@@ -31,15 +31,19 @@ function ProjectCards(props) {
           </Carousel.Item>
         ))}
       </Carousel>
+
       <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title>
+          <strong className="purple">{props.title}</strong>
+        </Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>{props.description}</Card.Text>
-        {/* {!props.isBlog && props.ghLink && (
+        {/* Uncomment below if needed
+        {!props.isBlog && props.ghLink && (
           <Button variant="primary" href={props.ghLink} target="_blank">
             <BsGithub /> &nbsp; GitHub
           </Button>
-        )} */}
-        {/* {props.demoLink && (
+        )}
+        {props.demoLink && (
           <Button
             variant="primary"
             href={props.demoLink}
@@ -48,12 +52,22 @@ function ProjectCards(props) {
           >
             <CgWebsite /> &nbsp; Demo
           </Button>
-        )} */}
+        )}
+        */}
       </Card.Body>
+
       {lightboxOpen && (
         <Lightbox
           mainSrc={props.imgPaths[lightboxIndex]}
+          nextSrc={props.imgPaths[(lightboxIndex + 1) % props.imgPaths.length]} // Wrap around to the first image
+          prevSrc={props.imgPaths[(lightboxIndex + props.imgPaths.length - 1) % props.imgPaths.length]} // Wrap around to the last image
           onCloseRequest={closeLightbox}
+          onMovePrevRequest={() =>
+            setLightboxIndex((lightboxIndex + props.imgPaths.length - 1) % props.imgPaths.length)
+          }
+          onMoveNextRequest={() =>
+            setLightboxIndex((lightboxIndex + 1) % props.imgPaths.length)
+          }
           enableZoom={false}
           closeButtonTitle="Close (Esc)"
         />
